@@ -12,9 +12,10 @@ namespace EditorHtml
 
             DrawScreen();
             WriteOptions();
-            HandleMenuOption();
+           
 
             var option = short.Parse(Console.ReadLine());
+             HandleMenuOption(option);
 
         }
 
