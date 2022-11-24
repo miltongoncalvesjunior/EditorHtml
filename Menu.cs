@@ -62,6 +62,7 @@ namespace EditorHtml
             Console.SetCursorPosition(3, 9);
             Console.WriteLine("0 - Sair");
             Console.SetCursorPosition(3, 10);
+            Console.Write("\n");
             Console.Write("Opções: ");
         }
 
