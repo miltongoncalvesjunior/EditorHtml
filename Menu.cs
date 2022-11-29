@@ -61,7 +61,12 @@ namespace EditorHtml
             Console.SetCursorPosition(3, 9);
             Console.WriteLine("0 - Sair");
             Console.SetCursorPosition(3, 10);
+<<<<<<< HEAD
             Console.Write("Opção: ");
+=======
+            Console.Write("\n");
+            Console.Write("Opções: ");
+>>>>>>> c6e0c0cda15cfbdba72d4d45bda621e4ec2458fb
         }
 
         public static void HandleMenuOptions(short option)
